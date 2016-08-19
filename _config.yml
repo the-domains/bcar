@@ -12,3 +12,7 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 name: BCAR
+navigation:
+  - name: About Us
+    url: 'http://www.formanwatkins.com/'
+    type: external
