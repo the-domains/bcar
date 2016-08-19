@@ -1,0 +1,14 @@
+layout_spectrum: 0.2618164326995611
+typography_spectrum: 0.524276533164084
+color:
+  brandStrength: 0.5064101980533451
+  lightness: 0.6929452798794955
+  saturation: 0.705600566463545
+  rhythmicContrast: 0.10317786666564643
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: BCAR
